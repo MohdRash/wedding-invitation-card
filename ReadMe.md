@@ -1,12 +1,12 @@
 # Islamic Wedding Invitation
 
-This project appears to be a digital Islamic wedding invitation, likely a static website, based on the file structure and names like `index.html`, `bismillah.png`, `flower-background.png`, and audio files.
+This project appears to be a digital Islamic wedding invitation, likely a static website, based on the file structure and names like `index.html` and audio files.
 
 ## Features
 
 - Digital wedding invitation format
 - Includes audio elements (`fulfilling-humming.mp3`, `nature-sound.mp3`)
-- Visual elements like `bismillah.png`, `flower-background.png`, `heart.svg`
+- Visual elements like images
 - Custom fonts (`GreatVibes-Regular.ttf`, `exmouth_.ttf`)
 - Optimized for web preview (`preview.png`, `og-image.jpg`)
 
@@ -26,6 +26,6 @@ Open the `index.html` file in a web browser or access it via the hosted URL to v
 
 - Fonts: `GreatVibes-Regular.ttf`, `exmouth_.ttf`
 - Audio: `fulfilling-humming.mp3`, `nature-sound.mp3`
-- Images: `bismillah.png`, `flower-background.png`, `heart.svg`
+
 
 Feel free to customize the content of `index.html` and replace assets in the `audio`, `font`, and `images` directories to personalize your invitation.
